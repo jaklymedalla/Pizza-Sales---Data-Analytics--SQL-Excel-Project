@@ -1,1 +1,2 @@
 # Pizza-Sales---Data-Analytics--SQL-Excel-Project
+  This project provides a comprehensive data analytics solution designed to extract, analyze, and visualize key performance indicators (KPIs) and operational trends for a pizza business. Using a combination of SQL for robust backend data manipulation and query processing, alongside Excel for dynamic frontend dashboards and data visualization, this project transforms raw sales records into actionable business insights.
